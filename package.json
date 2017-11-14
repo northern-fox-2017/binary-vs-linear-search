@@ -1,0 +1,13 @@
+{
+  "name": "binary-vs-linear-search",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "index.js",
+  "repository": "https://github.com/northern-fox-2017/binary-vs-linear-search.git",
+  "author": "Fajar Patappari <top.sick.red@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
