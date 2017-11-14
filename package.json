@@ -1,0 +1,11 @@
+{
+  "name": "binary-vs-linear-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:northern-fox-2017/binary-vs-linear-search.git",
+  "author": "yofri <yofriadiyahya@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
